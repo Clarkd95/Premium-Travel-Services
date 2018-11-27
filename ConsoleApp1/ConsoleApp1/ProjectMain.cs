@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using Newtonsoft.Json;
 
-//Clark Davis Wilson
+//Clarkd95
 //11-24-2018 Start
 //SWE 4743 OOD - 01
-//Jeff Adkisson
+//J. Adkisson
 
 namespace ProjectIteration3
 {
