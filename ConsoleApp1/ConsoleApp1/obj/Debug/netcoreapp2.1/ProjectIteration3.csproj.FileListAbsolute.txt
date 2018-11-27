@@ -1,0 +1,32 @@
+c:\users\atcfo\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ProjectIteration3.deps.json
+c:\users\atcfo\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ProjectIteration3.runtimeconfig.json
+c:\users\atcfo\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ProjectIteration3.runtimeconfig.dev.json
+c:\users\atcfo\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ProjectIteration3.dll
+c:\users\atcfo\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ProjectIteration3.pdb
+c:\users\atcfo\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ProjectIteration3.csprojAssemblyReference.cache
+c:\users\atcfo\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ProjectIteration3.csproj.CoreCompileInputs.cache
+c:\users\atcfo\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ProjectIteration3.AssemblyInfoInputs.cache
+c:\users\atcfo\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ProjectIteration3.AssemblyInfo.cs
+c:\users\atcfo\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ProjectIteration3.dll
+c:\users\atcfo\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ProjectIteration3.pdb
+F:\KSU Fall 2018\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ProjectIteration3.csprojAssemblyReference.cache
+F:\KSU Fall 2018\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ProjectIteration3.csproj.CoreCompileInputs.cache
+F:\KSU Fall 2018\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ProjectIteration3.AssemblyInfoInputs.cache
+F:\KSU Fall 2018\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ProjectIteration3.AssemblyInfo.cs
+F:\KSU Fall 2018\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ProjectIteration3.dll
+F:\KSU Fall 2018\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ProjectIteration3.pdb
+F:\KSU Fall 2018\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ProjectIteration3.deps.json
+F:\KSU Fall 2018\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ProjectIteration3.runtimeconfig.json
+F:\KSU Fall 2018\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ProjectIteration3.runtimeconfig.dev.json
+F:\KSU Fall 2018\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ProjectIteration3.dll
+F:\KSU Fall 2018\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ProjectIteration3.pdb
+D:\Documents\KSU 2018 School\OOA&D_ProjectIteration3\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ProjectIteration3.deps.json
+D:\Documents\KSU 2018 School\OOA&D_ProjectIteration3\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ProjectIteration3.runtimeconfig.json
+D:\Documents\KSU 2018 School\OOA&D_ProjectIteration3\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ProjectIteration3.runtimeconfig.dev.json
+D:\Documents\KSU 2018 School\OOA&D_ProjectIteration3\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ProjectIteration3.dll
+D:\Documents\KSU 2018 School\OOA&D_ProjectIteration3\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ProjectIteration3.pdb
+D:\Documents\KSU 2018 School\OOA&D_ProjectIteration3\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ProjectIteration3.csproj.CoreCompileInputs.cache
+D:\Documents\KSU 2018 School\OOA&D_ProjectIteration3\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ProjectIteration3.AssemblyInfoInputs.cache
+D:\Documents\KSU 2018 School\OOA&D_ProjectIteration3\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ProjectIteration3.AssemblyInfo.cs
+D:\Documents\KSU 2018 School\OOA&D_ProjectIteration3\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ProjectIteration3.dll
+D:\Documents\KSU 2018 School\OOA&D_ProjectIteration3\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ProjectIteration3.pdb
